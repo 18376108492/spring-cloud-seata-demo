@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common" />
+        <module name="registry" />
+        <module name="Seata-Bank1" />
+        <module name="seata-Bank2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.5" />
+      <module name="registry" target="1.8" />
+      <module name="Seata-Bank1" target="1.5" />
+      <module name="seata-Bank2" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

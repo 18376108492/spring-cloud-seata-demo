@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Seata-Bank1/Seata-Bank1.iml" filepath="$PROJECT_DIR$/Seata-Bank1/Seata-Bank1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry/registry.iml" filepath="$PROJECT_DIR$/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-Bank2/seata-Bank2.iml" filepath="$PROJECT_DIR$/seata-Bank2/seata-Bank2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-seata-demo.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-seata-demo.iml" />
+    </modules>
+  </component>
+</project>
