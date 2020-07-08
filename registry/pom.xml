@@ -47,5 +47,22 @@
             </plugin>
         </plugins>
     </build>
-    
+
+    <!-- 仓库源配置 -->
+    <repositories>
+        <repository>
+            <id>aliyun-public</id>
+            <name>aliyun-public</name>
+            <url>https://maven.aliyun.com/repository/public</url>
+        </repository>
+    </repositories>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>aliyun-public</id>
+            <name>aliyun-public</name>
+            <url>https://maven.aliyun.com/repository/public</url>
+        </pluginRepository>
+    </pluginRepositories>
+
+
 </project>
